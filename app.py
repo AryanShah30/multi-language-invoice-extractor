@@ -11,7 +11,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Initialize the generative model
-model = genai.GenerativeModel('gemini-pro-vision')
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Function to prepare image data for processing
 def input_image_details(uploaded_file):

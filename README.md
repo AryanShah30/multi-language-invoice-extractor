@@ -1,6 +1,6 @@
 # MultiLanguage Invoice Extractor
 
-[Explore Now](https://multi-language-invoice-extractor.streamlit.app/)
+[Explore Now](https://multi-lang-invoice-extractor.streamlit.app/)
 
 ## Overview
 
